@@ -1,4 +1,4 @@
-module gin-server
+module github.com/namcuongq/gin-server
 
 go 1.13
 
